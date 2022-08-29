@@ -1,0 +1,14 @@
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_DataAccessLayer\bin\Debug\net6.0\Threetier_DataAccessLayer.deps.json
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_DataAccessLayer\bin\Debug\net6.0\Threetier_DataAccessLayer.runtimeconfig.json
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_DataAccessLayer\bin\Debug\net6.0\Threetier_DataAccessLayer.dll
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_DataAccessLayer\bin\Debug\net6.0\Threetier_DataAccessLayer.pdb
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_DataAccessLayer\obj\Debug\net6.0\Threetier_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_DataAccessLayer\obj\Debug\net6.0\Threetier_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_DataAccessLayer\obj\Debug\net6.0\Threetier_DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_DataAccessLayer\obj\Debug\net6.0\Threetier_DataAccessLayer.AssemblyInfo.cs
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_DataAccessLayer\obj\Debug\net6.0\Threetier_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_DataAccessLayer\obj\Debug\net6.0\Threetier_DataAccessLayer.dll
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_DataAccessLayer\obj\Debug\net6.0\refint\Threetier_DataAccessLayer.dll
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_DataAccessLayer\obj\Debug\net6.0\Threetier_DataAccessLayer.pdb
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_DataAccessLayer\obj\Debug\net6.0\Threetier_DataAccessLayer.genruntimeconfig.cache
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_DataAccessLayer\obj\Debug\net6.0\ref\Threetier_DataAccessLayer.dll

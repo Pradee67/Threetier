@@ -1,0 +1,15 @@
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_BusinessLogicLayer\bin\Debug\net6.0\Threetier_BusinessLogicLayer.deps.json
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_BusinessLogicLayer\bin\Debug\net6.0\Threetier_BusinessLogicLayer.dll
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_BusinessLogicLayer\bin\Debug\net6.0\Threetier_BusinessLogicLayer.pdb
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_BusinessLogicLayer\bin\Debug\net6.0\Threetier_DataAccessLayer.dll
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_BusinessLogicLayer\bin\Debug\net6.0\Threetier_DataAccessLayer.pdb
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_BusinessLogicLayer\obj\Debug\net6.0\Threetier_BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_BusinessLogicLayer\obj\Debug\net6.0\Threetier_BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_BusinessLogicLayer\obj\Debug\net6.0\Threetier_BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_BusinessLogicLayer\obj\Debug\net6.0\Threetier_BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_BusinessLogicLayer\obj\Debug\net6.0\Threetier_BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_BusinessLogicLayer\obj\Debug\net6.0\Threetier_BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_BusinessLogicLayer\obj\Debug\net6.0\Threetier_BusinessLogicLayer.dll
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_BusinessLogicLayer\obj\Debug\net6.0\refint\Threetier_BusinessLogicLayer.dll
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_BusinessLogicLayer\obj\Debug\net6.0\Threetier_BusinessLogicLayer.pdb
+C:\Users\Pradeepa.lakshmanan\source\repos\Threetier\Threetier_BusinessLogicLayer\obj\Debug\net6.0\ref\Threetier_BusinessLogicLayer.dll
